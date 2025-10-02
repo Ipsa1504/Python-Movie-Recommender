@@ -49,14 +49,14 @@ This tutorial is designed for students, aspiring data scientists, and profession
 ---
 
 ## Project Structure
-  Recommendation-Systems-Tutorial/
-│
-├── data/ # Dataset folder
-├── notebooks/ # Jupyter notebooks with tutorial
-│ └── movie_recommender.ipynb
-├── scripts/ # Python scripts for training and evaluation
-├── requirements.txt # Required Python packages
-└── README.md
+      Recommendation-Systems-Tutorial/
+    │
+    ├── data/ # Dataset folder
+    ├── notebooks/ # Jupyter notebooks with tutorial
+    │ └── movie_recommender.ipynb
+    ├── scripts/ # Python scripts for training and evaluation
+    ├── requirements.txt # Required Python packages
+    └── README.md
 
 
 ---
