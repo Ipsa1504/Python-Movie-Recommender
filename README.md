@@ -69,7 +69,7 @@ This tutorial is designed for students, aspiring data scientists, and profession
     cd MovieLens-Recommender-System
 2. **Install dependencies**
 
-    pip install -r requirements.txt
+       pip install -r requirements.txt
 
 
 3. **Run Jupyter Notebook**
